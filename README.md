@@ -1,2 +1,2 @@
 # huey
-Color preview/picker for the TUI with support for many color spaces.
+Color preview/picker TUI with comprehensive color space support.
